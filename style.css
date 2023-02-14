@@ -1,0 +1,9 @@
+li:nth-child(-n+2){
+text-decoration:line-through;
+}
+li:nth-child(odd){
+    border:1px solid black;
+}
+li:nth-last-child(1){
+   letter-spacing: 1em;
+}
